@@ -1,0 +1,3131 @@
+nohup: ignoring input
+[0mGET / [36m304 [0m9.974 ms - -[0m
+[0mGET / [32m200 [0m4.322 ms - 2789[0m
+[0mGET /favicon.ico [33m404 [0m9.630 ms - 946[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [32m200 [0m9.246 ms - 304[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m3.300 ms - -[0m
+{ q: 'Pr' }
+/^Pr/
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [32m200 [0m1.206 ms - 57[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [32m200 [0m1.599 ms - 40[0m
+{ q: 'Pro\\' }
+[0mGET /getcity?q=Pro\ [31m500 [0m3.063 ms - 1026[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m2.140 ms - -[0m
+{ q: 'Pr' }
+/^Pr/
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [36m304 [0m1.621 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m4.911 ms - -[0m
+{ q: '' }
+/^/
+Alpine
+Altamont
+Alton
+Altonah
+American Fork
+Aneth
+Annabella
+Antimony
+Aurora
+Axtell
+Bear River City
+Beaver
+Beryl
+Bicknell
+Bingham Canyon
+Blanding
+Bluebell
+Bluff
+Bonanza
+Boulder
+Bountiful
+Brian Head
+Brigham City
+Bryce
+Bryce Canyon
+Cache Junction
+Cannonville
+Castle Dale
+Cedar City
+Cedar Valley
+Centerfield
+Centerville
+Central
+Chester
+Circleville
+Cisco
+Clarkston
+Clawson
+Clearfield
+Cleveland
+Clinton
+Coalville
+Collinston
+Corinne
+Cornish
+Croydon
+Dammeron Valley
+Delta
+Deweyville
+Draper
+Duchesne
+Duck Creek Village
+Dugway
+Dutch John
+East Carbon
+Echo
+Eden
+Elberta
+Elmo
+Elsinore
+Emery
+Enterprise
+Ephraim
+Escalante
+Eureka
+Fairview
+Farmington
+Fayette
+Ferron
+Fielding
+Fillmore
+Fort Duchesne
+Fountain Green
+Fruitland
+Garden City
+Garland
+Garrison
+Glendale
+Glenwood
+Goshen
+Grantsville
+Green River
+Greenville
+Greenwich
+Grouse Creek
+Gunlock
+Gunnison
+Gusher
+Hanksville
+Hanna
+Hatch
+Heber City
+Helper
+Henefer
+Henrieville
+Hiawatha
+Hildale
+Hill AFB
+Hinckley
+Holden
+Honeyville
+Hooper
+Howell
+Huntington
+Huntsville
+Hurricane
+Hyde Park
+Hyrum
+Ibapah
+Ivins
+Jensen
+Joseph
+Junction
+Kamas
+Kanab
+Kanarraville
+Kanosh
+Kaysville
+Kenilworth
+Kingston
+Koosharem
+La Sal
+La Verkin
+Lake Powell
+Laketown
+Lapoint
+Layton
+Leamington
+Leeds
+Lehi
+Levan
+Lewiston
+Lindon
+Loa
+Logan
+Lyman
+Lynndyl
+Magna
+Manila
+Manti
+Mantua
+Mapleton
+Marysvale
+Mayfield
+Meadow
+Mendon
+Mexican Hat
+Midvale
+Midway
+Milford
+Millville
+Minersville
+Moab
+Modena
+Mona
+Monroe
+Montezuma Creek
+Monticello
+Morgan
+Moroni
+Mount Carmel
+Mount Pleasant
+Mountain Home
+Myton
+Neola
+Nephi
+New Harmony
+Newcastle
+Newton
+North Salt Lake
+Oak City
+Oakley
+Oasis
+Ogden
+Orangeville
+Orderville
+Orem
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+Randlett
+Randolph
+Redmond
+Richfield
+Richmond
+Riverside
+Riverton
+Rockville
+Roosevelt
+Roy
+Rush Valley
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+Scipio
+Sevier
+Sigurd
+Smithfield
+Snowville
+South Jordan
+South Willard
+Spanish Fork
+Spring City
+Springdale
+Springville
+Sterling
+Stockton
+Summit
+Sunnyside
+Syracuse
+Tabiona
+Talmage
+Teasdale
+Thompson
+Tooele
+Toquerville
+Torrey
+Tremonton
+Trenton
+Tridell
+Tropic
+Vernal
+Vernon
+Veyo
+Virgin
+Wales
+Wallsburg
+Washington
+Wellington
+Wellsville
+Wendover
+West Jordan
+Whiterocks
+Willard
+Woodruff
+Woods Cross
+
+[ { city: 'Alpine' },
+  { city: 'Altamont' },
+  { city: 'Alton' },
+  { city: 'Altonah' },
+  { city: 'American Fork' },
+  { city: 'Aneth' },
+  { city: 'Annabella' },
+  { city: 'Antimony' },
+  { city: 'Aurora' },
+  { city: 'Axtell' },
+  { city: 'Bear River City' },
+  { city: 'Beaver' },
+  { city: 'Beryl' },
+  { city: 'Bicknell' },
+  { city: 'Bingham Canyon' },
+  { city: 'Blanding' },
+  { city: 'Bluebell' },
+  { city: 'Bluff' },
+  { city: 'Bonanza' },
+  { city: 'Boulder' },
+  { city: 'Bountiful' },
+  { city: 'Brian Head' },
+  { city: 'Brigham City' },
+  { city: 'Bryce' },
+  { city: 'Bryce Canyon' },
+  { city: 'Cache Junction' },
+  { city: 'Cannonville' },
+  { city: 'Castle Dale' },
+  { city: 'Cedar City' },
+  { city: 'Cedar Valley' },
+  { city: 'Centerfield' },
+  { city: 'Centerville' },
+  { city: 'Central' },
+  { city: 'Chester' },
+  { city: 'Circleville' },
+  { city: 'Cisco' },
+  { city: 'Clarkston' },
+  { city: 'Clawson' },
+  { city: 'Clearfield' },
+  { city: 'Cleveland' },
+  { city: 'Clinton' },
+  { city: 'Coalville' },
+  { city: 'Collinston' },
+  { city: 'Corinne' },
+  { city: 'Cornish' },
+  { city: 'Croydon' },
+  { city: 'Dammeron Valley' },
+  { city: 'Delta' },
+  { city: 'Deweyville' },
+  { city: 'Draper' },
+  { city: 'Duchesne' },
+  { city: 'Duck Creek Village' },
+  { city: 'Dugway' },
+  { city: 'Dutch John' },
+  { city: 'East Carbon' },
+  { city: 'Echo' },
+  { city: 'Eden' },
+  { city: 'Elberta' },
+  { city: 'Elmo' },
+  { city: 'Elsinore' },
+  { city: 'Emery' },
+  { city: 'Enterprise' },
+  { city: 'Ephraim' },
+  { city: 'Escalante' },
+  { city: 'Eureka' },
+  { city: 'Fairview' },
+  { city: 'Farmington' },
+  { city: 'Fayette' },
+  { city: 'Ferron' },
+  { city: 'Fielding' },
+  { city: 'Fillmore' },
+  { city: 'Fort Duchesne' },
+  { city: 'Fountain Green' },
+  { city: 'Fruitland' },
+  { city: 'Garden City' },
+  { city: 'Garland' },
+  { city: 'Garrison' },
+  { city: 'Glendale' },
+  { city: 'Glenwood' },
+  { city: 'Goshen' },
+  { city: 'Grantsville' },
+  { city: 'Green River' },
+  { city: 'Greenville' },
+  { city: 'Greenwich' },
+  { city: 'Grouse Creek' },
+  { city: 'Gunlock' },
+  { city: 'Gunnison' },
+  { city: 'Gusher' },
+  { city: 'Hanksville' },
+  { city: 'Hanna' },
+  { city: 'Hatch' },
+  { city: 'Heber City' },
+  { city: 'Helper' },
+  { city: 'Henefer' },
+  { city: 'Henrieville' },
+  { city: 'Hiawatha' },
+  { city: 'Hildale' },
+  { city: 'Hill AFB' },
+  { city: 'Hinckley' },
+  { city: 'Holden' },
+  { city: 'Honeyville' },
+  { city: 'Hooper' },
+  { city: 'Howell' },
+  { city: 'Huntington' },
+  { city: 'Huntsville' },
+  { city: 'Hurricane' },
+  { city: 'Hyde Park' },
+  { city: 'Hyrum' },
+  { city: 'Ibapah' },
+  { city: 'Ivins' },
+  { city: 'Jensen' },
+  { city: 'Joseph' },
+  { city: 'Junction' },
+  { city: 'Kamas' },
+  { city: 'Kanab' },
+  { city: 'Kanarraville' },
+  { city: 'Kanosh' },
+  { city: 'Kaysville' },
+  { city: 'Kenilworth' },
+  { city: 'Kingston' },
+  { city: 'Koosharem' },
+  { city: 'La Sal' },
+  { city: 'La Verkin' },
+  { city: 'Lake Powell' },
+  { city: 'Laketown' },
+  { city: 'Lapoint' },
+  { city: 'Layton' },
+  { city: 'Leamington' },
+  { city: 'Leeds' },
+  { city: 'Lehi' },
+  { city: 'Levan' },
+  { city: 'Lewiston' },
+  { city: 'Lindon' },
+  { city: 'Loa' },
+  { city: 'Logan' },
+  { city: 'Lyman' },
+  { city: 'Lynndyl' },
+  { city: 'Magna' },
+  { city: 'Manila' },
+  { city: 'Manti' },
+  { city: 'Mantua' },
+  { city: 'Mapleton' },
+  { city: 'Marysvale' },
+  { city: 'Mayfield' },
+  { city: 'Meadow' },
+  { city: 'Mendon' },
+  { city: 'Mexican Hat' },
+  { city: 'Midvale' },
+  { city: 'Midway' },
+  { city: 'Milford' },
+  { city: 'Millville' },
+  { city: 'Minersville' },
+  { city: 'Moab' },
+  { city: 'Modena' },
+  { city: 'Mona' },
+  { city: 'Monroe' },
+  { city: 'Montezuma Creek' },
+  { city: 'Monticello' },
+  { city: 'Morgan' },
+  { city: 'Moroni' },
+  { city: 'Mount Carmel' },
+  { city: 'Mount Pleasant' },
+  { city: 'Mountain Home' },
+  { city: 'Myton' },
+  { city: 'Neola' },
+  { city: 'Nephi' },
+  { city: 'New Harmony' },
+  { city: 'Newcastle' },
+  { city: 'Newton' },
+  { city: 'North Salt Lake' },
+  { city: 'Oak City' },
+  { city: 'Oakley' },
+  { city: 'Oasis' },
+  { city: 'Ogden' },
+  { city: 'Orangeville' },
+  { city: 'Orderville' },
+  { city: 'Orem' },
+  { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' },
+  { city: 'Randlett' },
+  { city: 'Randolph' },
+  { city: 'Redmond' },
+  { city: 'Richfield' },
+  { city: 'Richmond' },
+  { city: 'Riverside' },
+  { city: 'Riverton' },
+  { city: 'Rockville' },
+  { city: 'Roosevelt' },
+  { city: 'Roy' },
+  { city: 'Rush Valley' },
+  { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' },
+  { city: 'Scipio' },
+  { city: 'Sevier' },
+  { city: 'Sigurd' },
+  { city: 'Smithfield' },
+  { city: 'Snowville' },
+  { city: 'South Jordan' },
+  { city: 'South Willard' },
+  { city: 'Spanish Fork' },
+  { city: 'Spring City' },
+  { city: 'Springdale' },
+  { city: 'Springville' },
+  { city: 'Sterling' },
+  { city: 'Stockton' },
+  { city: 'Summit' },
+  { city: 'Sunnyside' },
+  { city: 'Syracuse' },
+  { city: 'Tabiona' },
+  { city: 'Talmage' },
+  { city: 'Teasdale' },
+  { city: 'Thompson' },
+  { city: 'Tooele' },
+  { city: 'Toquerville' },
+  { city: 'Torrey' },
+  { city: 'Tremonton' },
+  { city: 'Trenton' },
+  { city: 'Tridell' },
+  { city: 'Tropic' },
+  { city: 'Vernal' },
+  { city: 'Vernon' },
+  { city: 'Veyo' },
+  { city: 'Virgin' },
+  { city: 'Wales' },
+  { city: 'Wallsburg' },
+  { city: 'Washington' },
+  { city: 'Wellington' },
+  { city: 'Wellsville' },
+  { city: 'Wendover' },
+  { city: 'West Jordan' },
+  { city: 'Whiterocks' },
+  { city: 'Willard' },
+  { city: 'Woodruff' },
+  { city: 'Woods Cross' },
+  { city: '' } ]
+[0mGET /getcity?q= [32m200 [0m32.899 ms - 5080[0m
+{ q: 'S' }
+/^S/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+Scipio
+Sevier
+Sigurd
+Smithfield
+Snowville
+South Jordan
+South Willard
+Spanish Fork
+Spring City
+Springdale
+Springville
+Sterling
+Stockton
+Summit
+Sunnyside
+Syracuse
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' },
+  { city: 'Scipio' },
+  { city: 'Sevier' },
+  { city: 'Sigurd' },
+  { city: 'Smithfield' },
+  { city: 'Snowville' },
+  { city: 'South Jordan' },
+  { city: 'South Willard' },
+  { city: 'Spanish Fork' },
+  { city: 'Spring City' },
+  { city: 'Springdale' },
+  { city: 'Springville' },
+  { city: 'Sterling' },
+  { city: 'Stockton' },
+  { city: 'Summit' },
+  { city: 'Sunnyside' },
+  { city: 'Syracuse' } ]
+[0mGET /getcity?q=S [32m200 [0m1.757 ms - 484[0m
+{ q: 'S' }
+/^S/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+Scipio
+Sevier
+Sigurd
+Smithfield
+Snowville
+South Jordan
+South Willard
+Spanish Fork
+Spring City
+Springdale
+Springville
+Sterling
+Stockton
+Summit
+Sunnyside
+Syracuse
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' },
+  { city: 'Scipio' },
+  { city: 'Sevier' },
+  { city: 'Sigurd' },
+  { city: 'Smithfield' },
+  { city: 'Snowville' },
+  { city: 'South Jordan' },
+  { city: 'South Willard' },
+  { city: 'Spanish Fork' },
+  { city: 'Spring City' },
+  { city: 'Springdale' },
+  { city: 'Springville' },
+  { city: 'Sterling' },
+  { city: 'Stockton' },
+  { city: 'Summit' },
+  { city: 'Sunnyside' },
+  { city: 'Syracuse' } ]
+[0mGET /getcity?q=S [36m304 [0m1.617 ms - -[0m
+{ q: 'Sa' }
+/^Sa/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' } ]
+[0mGET /getcity?q=Sa [32m200 [0m2.906 ms - 147[0m
+{ q: 'Sal' }
+/^Sal/
+Salem
+Salina
+Salt Lake City
+[ { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Sal [32m200 [0m1.082 ms - 62[0m
+{ q: 'Salt' }
+/^Salt/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt [32m200 [0m1.480 ms - 27[0m
+{ q: 'Sal\\' }
+[0mGET /getcity?q=Sal\ [31m500 [0m1.475 ms - 1026[0m
+{ q: 'Sal\\' }
+[0mGET /getcity?q=Sal\ [31m500 [0m1.746 ms - 1026[0m
+{ q: 'Sal' }
+/^Sal/
+Salem
+Salina
+Salt Lake City
+[ { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Sal [36m304 [0m1.114 ms - -[0m
+{ q: 'Sa' }
+/^Sa/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' } ]
+[0mGET /getcity?q=Sa [36m304 [0m1.461 ms - -[0m
+{ q: 'S' }
+/^S/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+Scipio
+Sevier
+Sigurd
+Smithfield
+Snowville
+South Jordan
+South Willard
+Spanish Fork
+Spring City
+Springdale
+Springville
+Sterling
+Stockton
+Summit
+Sunnyside
+Syracuse
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' },
+  { city: 'Scipio' },
+  { city: 'Sevier' },
+  { city: 'Sigurd' },
+  { city: 'Smithfield' },
+  { city: 'Snowville' },
+  { city: 'South Jordan' },
+  { city: 'South Willard' },
+  { city: 'Spanish Fork' },
+  { city: 'Spring City' },
+  { city: 'Springdale' },
+  { city: 'Springville' },
+  { city: 'Sterling' },
+  { city: 'Stockton' },
+  { city: 'Summit' },
+  { city: 'Sunnyside' },
+  { city: 'Syracuse' } ]
+[0mGET /getcity?q=S [36m304 [0m1.814 ms - -[0m
+{ q: 'SA' }
+/^SA/
+[]
+[0mGET /getcity?q=SA [32m200 [0m1.040 ms - 2[0m
+{ q: 'SA' }
+/^SA/
+[]
+[0mGET /getcity?q=SA [36m304 [0m0.756 ms - -[0m
+{ q: 'S' }
+/^S/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+Scipio
+Sevier
+Sigurd
+Smithfield
+Snowville
+South Jordan
+South Willard
+Spanish Fork
+Spring City
+Springdale
+Springville
+Sterling
+Stockton
+Summit
+Sunnyside
+Syracuse
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' },
+  { city: 'Scipio' },
+  { city: 'Sevier' },
+  { city: 'Sigurd' },
+  { city: 'Smithfield' },
+  { city: 'Snowville' },
+  { city: 'South Jordan' },
+  { city: 'South Willard' },
+  { city: 'Spanish Fork' },
+  { city: 'Spring City' },
+  { city: 'Springdale' },
+  { city: 'Springville' },
+  { city: 'Sterling' },
+  { city: 'Stockton' },
+  { city: 'Summit' },
+  { city: 'Sunnyside' },
+  { city: 'Syracuse' } ]
+[0mGET /getcity?q=S [36m304 [0m1.914 ms - -[0m
+{ q: 'Sa' }
+/^Sa/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' } ]
+[0mGET /getcity?q=Sa [36m304 [0m1.210 ms - -[0m
+{ q: 'Sal' }
+/^Sal/
+Salem
+Salina
+Salt Lake City
+[ { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Sal [36m304 [0m1.371 ms - -[0m
+{ q: 'Salt' }
+/^Salt/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt [36m304 [0m1.368 ms - -[0m
+{ q: 'Sal' }
+/^Sal/
+Salem
+Salina
+Salt Lake City
+[ { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Sal [36m304 [0m3.077 ms - -[0m
+{ q: 'Sa' }
+/^Sa/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' } ]
+[0mGET /getcity?q=Sa [36m304 [0m1.206 ms - -[0m
+{ q: 'S' }
+/^S/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+Scipio
+Sevier
+Sigurd
+Smithfield
+Snowville
+South Jordan
+South Willard
+Spanish Fork
+Spring City
+Springdale
+Springville
+Sterling
+Stockton
+Summit
+Sunnyside
+Syracuse
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' },
+  { city: 'Scipio' },
+  { city: 'Sevier' },
+  { city: 'Sigurd' },
+  { city: 'Smithfield' },
+  { city: 'Snowville' },
+  { city: 'South Jordan' },
+  { city: 'South Willard' },
+  { city: 'Spanish Fork' },
+  { city: 'Spring City' },
+  { city: 'Springdale' },
+  { city: 'Springville' },
+  { city: 'Sterling' },
+  { city: 'Stockton' },
+  { city: 'Summit' },
+  { city: 'Sunnyside' },
+  { city: 'Syracuse' } ]
+[0mGET /getcity?q=S [36m304 [0m4.127 ms - -[0m
+{ q: 'Sa' }
+/^Sa/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' } ]
+[0mGET /getcity?q=Sa [36m304 [0m1.321 ms - -[0m
+{ q: 'Sa' }
+/^Sa/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' } ]
+[0mGET /getcity?q=Sa [36m304 [0m1.622 ms - -[0m
+{ q: 'Sa' }
+/^Sa/
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+[ { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' } ]
+[0mGET /getcity?q=Sa [36m304 [0m2.117 ms - -[0m
+{ q: 'Sal' }
+/^Sal/
+Salem
+Salina
+Salt Lake City
+[ { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Sal [36m304 [0m0.991 ms - -[0m
+{ q: 'Salt' }
+/^Salt/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt [36m304 [0m1.059 ms - -[0m
+{ q: 'Salt' }
+/^Salt/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt [36m304 [0m1.047 ms - -[0m
+{ q: 'Salt L' }
+/^Salt L/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20L [32m200 [0m1.477 ms - 27[0m
+{ q: 'Salt L' }
+/^Salt L/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20L [36m304 [0m1.189 ms - -[0m
+{ q: 'Salt La' }
+/^Salt La/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20La [32m200 [0m1.142 ms - 27[0m
+{ q: 'Salt Lak' }
+/^Salt Lak/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20Lak [32m200 [0m1.319 ms - 27[0m
+{ q: 'Salt Lake' }
+/^Salt Lake/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20Lake [32m200 [0m0.872 ms - 27[0m
+{ q: 'Salt Lake' }
+/^Salt Lake/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20Lake [36m304 [0m0.835 ms - -[0m
+{ q: 'Salt Lake C' }
+/^Salt Lake C/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20Lake%20C [32m200 [0m1.654 ms - 27[0m
+{ q: 'Salt Lake C' }
+/^Salt Lake C/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20Lake%20C [36m304 [0m0.818 ms - -[0m
+{ q: 'Salt Lake Ci' }
+/^Salt Lake Ci/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20Lake%20Ci [32m200 [0m1.210 ms - 27[0m
+{ q: 'Salt Lake Cit' }
+/^Salt Lake Cit/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20Lake%20Cit [32m200 [0m2.227 ms - 27[0m
+{ q: 'Salt Lake City' }
+/^Salt Lake City/
+Salt Lake City
+[ { city: 'Salt Lake City' } ]
+[0mGET /getcity?q=Salt%20Lake%20City [32m200 [0m0.913 ms - 27[0m
+[0mGET / [32m200 [0m2.860 ms - 2822[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.768 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.455 ms - -[0m
+{ q: 'Pr' }
+/^Pr/
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [36m304 [0m1.481 ms - -[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m1.172 ms - -[0m
+{ q: 'Prov' }
+/^Prov/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Prov [32m200 [0m1.126 ms - 40[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [32m200 [0m0.900 ms - 18[0m
+[0mGET / [32m200 [0m1.738 ms - 2822[0m
+[0mGET /manager/html [33m404 [0m1.337 ms - 946[0m
+[0mGET / [32m200 [0m1.013 ms - 2822[0m
+[0mHEAD / [32m200 [0m0.677 ms - 2822[0m
+[0mHEAD / [32m200 [0m0.604 ms - 2822[0m
+[0mHEAD / [32m200 [0m0.489 ms - 2822[0m
+[0mGET / [32m200 [0m0.829 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m0.962 ms - 946[0m
+[0mGET /manager/html [33m404 [0m1.144 ms - 946[0m
+[0mGET / [32m200 [0m0.806 ms - 2822[0m
+[0mGET /apple-touch-icon-precomposed.png [33m404 [0m2.217 ms - 946[0m
+[0mGET /apple-touch-icon.png [33m404 [0m1.053 ms - 946[0m
+[0mGET / [36m304 [0m0.864 ms - -[0m
+[0mGET /apple-touch-icon-precomposed.png [33m404 [0m0.995 ms - 946[0m
+[0mGET /apple-touch-icon.png [33m404 [0m1.608 ms - 946[0m
+[0mHEAD /admin [33m404 [0m1.155 ms - 946[0m
+[0mGET / [32m200 [0m0.729 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m0.981 ms - 946[0m
+[0mGET / [32m200 [0m0.852 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m3.544 ms - 946[0m
+[0mGET /test1.html [33m404 [0m1.186 ms - 946[0m
+[0mHEAD /admin [33m404 [0m1.288 ms - 946[0m
+[0mGET http://testp5.mielno.lubin.pl/testproxy.php [33m404 [0m1.804 ms - 946[0m
+[0mGET / [32m200 [0m1.250 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m0.979 ms - 946[0m
+[0mGET / [32m200 [0m0.973 ms - 2822[0m
+[0mGET /muieblackcat [33m404 [0m1.907 ms - 946[0m
+[0mGET //phpMyAdmin/scripts/setup.php [33m404 [0m1.148 ms - 946[0m
+[0mGET //phpmyadmin/scripts/setup.php [33m404 [0m1.033 ms - 946[0m
+[0mGET //pma/scripts/setup.php [33m404 [0m2.048 ms - 946[0m
+[0mGET //myadmin/scripts/setup.php [33m404 [0m1.113 ms - 946[0m
+[0mGET //MyAdmin/scripts/setup.php [33m404 [0m2.130 ms - 946[0m
+[0mGET http://testp4.pospr.waw.pl/testproxy.php [33m404 [0m1.200 ms - 946[0m
+[0mGET /muieblackcat [33m404 [0m1.047 ms - 946[0m
+[0mGET //phpMyAdmin/scripts/setup.php [33m404 [0m1.109 ms - 946[0m
+[0mGET //phpmyadmin/scripts/setup.php [33m404 [0m1.020 ms - 946[0m
+[0mGET //pma/scripts/setup.php [33m404 [0m1.115 ms - 946[0m
+[0mGET //myadmin/scripts/setup.php [33m404 [0m2.646 ms - 946[0m
+[0mGET //MyAdmin/scripts/setup.php [33m404 [0m4.801 ms - 946[0m
+[0mGET //cgi-bin/php [33m404 [0m1.121 ms - 946[0m
+[0mGET //cgi-bin/php5 [33m404 [0m0.966 ms - 946[0m
+[0mGET //cgi-bin/php-cgi [33m404 [0m1.017 ms - 946[0m
+[0mGET //cgi-bin/php.cgi [33m404 [0m2.488 ms - 946[0m
+[0mGET //cgi-bin/php4 [33m404 [0m2.751 ms - 946[0m
+[0mGET /x [33m404 [0m2.398 ms - 946[0m
+[0mGET / [32m200 [0m2.214 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m1.737 ms - 946[0m
+[0mGET / [32m200 [0m2.067 ms - 2822[0m
+[0mHEAD / [32m200 [0m0.982 ms - 2822[0m
+[0mGET / [32m200 [0m0.735 ms - 2822[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [32m200 [0m1.620 ms - 304[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [32m200 [0m3.315 ms - 304[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [32m200 [0m1.163 ms - 40[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m0.849 ms - -[0m
+{ q: 'Prov' }
+/^Prov/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Prov [32m200 [0m0.976 ms - 40[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [32m200 [0m2.290 ms - 18[0m
+[0mGET /favicon.ico [33m404 [0m1.742 ms - 946[0m
+[0mGET / [32m200 [0m2.151 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m2.893 ms - 946[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [32m200 [0m1.929 ms - 304[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.448 ms - -[0m
+{ q: 'Pr' }
+/^Pr/
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [32m200 [0m0.942 ms - 57[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [32m200 [0m1.385 ms - 40[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [32m200 [0m1.048 ms - 18[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m0.849 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m0.868 ms - -[0m
+{ q: 'Prov' }
+/^Prov/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Prov [32m200 [0m1.180 ms - 40[0m
+[0mGET / [32m200 [0m0.914 ms - 2822[0m
+[0mGET / [32m200 [0m0.857 ms - 2822[0m
+[0mGET / [36m304 [0m1.541 ms - -[0m
+[0mGET / [36m304 [0m0.696 ms - -[0m
+[0mHEAD / [32m200 [0m0.476 ms - 2822[0m
+[0mGET /bbs/delete_comment.php [33m404 [0m1.219 ms - 946[0m
+[0mGET /favicon.ico [33m404 [0m1.789 ms - 946[0m
+[0mHEAD / [32m200 [0m0.627 ms - 2822[0m
+[0mGET / [32m200 [0m1.980 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m7.697 ms - 946[0m
+[0mGET / [32m200 [0m0.740 ms - 2822[0m
+[0mGET / [32m200 [0m0.749 ms - 2822[0m
+[0mGET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=echo%20610cker1;&curpath=/&currentsetting.htm=1 [33m404 [0m0.929 ms - 946[0m
+[0mGET / [32m200 [0m0.729 ms - 2822[0m
+[0mGET /CFIDE/administrator/ [33m404 [0m1.111 ms - 946[0m
+[0mHEAD / [32m200 [0m0.476 ms - 2822[0m
+[0mGET http://testp5.mielno.lubin.pl/testproxy.php [33m404 [0m1.799 ms - 946[0m
+[0mGET / [32m200 [0m0.823 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m0.977 ms - 946[0m
+[0mGET / [32m200 [0m1.507 ms - 2822[0m
+[0mGET / [36m304 [0m0.687 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m1.122 ms - 946[0m
+[0mGET / [36m304 [0m1.081 ms - -[0m
+[0mHEAD / [32m200 [0m0.458 ms - 2822[0m
+[0mGET / [32m200 [0m0.817 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m0.930 ms - 946[0m
+[0mHEAD / [32m200 [0m0.571 ms - 2822[0m
+[0mGET / [32m200 [0m0.935 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m1.006 ms - 946[0m
+[0mGET / [32m200 [0m0.835 ms - 2822[0m
+[0mGET / [32m200 [0m2.436 ms - 2822[0m
+[0mGET /apple-touch-icon-precomposed.png [33m404 [0m0.921 ms - 946[0m
+[0mGET /apple-touch-icon.png [33m404 [0m0.757 ms - 946[0m
+[0mGET / [36m304 [0m0.356 ms - -[0m
+[0mGET /apple-touch-icon-precomposed.png [33m404 [0m0.915 ms - 946[0m
+[0mGET /apple-touch-icon.png [33m404 [0m0.787 ms - 946[0m
+[0mHEAD / [32m200 [0m0.427 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m1.300 ms - 946[0m
+[0mGET / [32m200 [0m0.748 ms - 2822[0m
+[0mGET / [32m200 [0m0.759 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m1.348 ms - 946[0m
+[0mHEAD / [32m200 [0m0.529 ms - 2822[0m
+[0mGET /CFIDE/administrator/ [33m404 [0m1.141 ms - 946[0m
+[0mHEAD / [32m200 [0m0.501 ms - 2822[0m
+[0mGET /xmlrpc.php [33m404 [0m1.078 ms - 946[0m
+[0mGET / [32m200 [0m0.878 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m1.865 ms - 946[0m
+[0mGET /Forums/forum.php [33m404 [0m1.307 ms - 946[0m
+[0mHEAD / [32m200 [0m0.633 ms - 2822[0m
+[0mGET /x [33m404 [0m1.116 ms - 946[0m
+[0mHEAD / [32m200 [0m0.630 ms - 2822[0m
+[0mGET / [32m200 [0m1.408 ms - 2822[0m
+[0mGET /xmlrpc.php [33m404 [0m1.245 ms - 946[0m
+[0mGET /xmlrpc.php [33m404 [0m1.783 ms - 946[0m
+[0mGET /muieblackcat [33m404 [0m1.145 ms - 946[0m
+[0mGET //phpMyAdmin/scripts/setup.php [33m404 [0m1.817 ms - 946[0m
+[0mGET //phpmyadmin/scripts/setup.php [33m404 [0m0.992 ms - 946[0m
+[0mGET //pma/scripts/setup.php [33m404 [0m1.139 ms - 946[0m
+[0mGET //myadmin/scripts/setup.php [33m404 [0m1.034 ms - 946[0m
+[0mGET //MyAdmin/scripts/setup.php [33m404 [0m1.680 ms - 946[0m
+[0mGET / [32m200 [0m0.775 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m7.490 ms - 946[0m
+[0mGET / [32m200 [0m0.812 ms - 2822[0m
+[0mGET /favicon.ico [33m404 [0m1.148 ms - 946[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [32m200 [0m2.925 ms - 304[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.866 ms - -[0m
+{ q: 'Pr' }
+/^Pr/
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [32m200 [0m1.289 ms - 57[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [32m200 [0m1.570 ms - 40[0m
+{ q: 'Prov' }
+/^Prov/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Prov [32m200 [0m1.200 ms - 40[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [32m200 [0m0.794 ms - 18[0m
+[0mGET / [36m304 [0m0.531 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.820 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m2.732 ms - -[0m
+{ q: 'Pr' }
+/^Pr/
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [36m304 [0m1.045 ms - -[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m0.997 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m2.305 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m0.954 ms - -[0m
+[0mGET / [36m304 [0m4.676 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.782 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.789 ms - -[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m1.367 ms - -[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m1.207 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m1.136 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m1.190 ms - -[0m
+[0mGET / [36m304 [0m0.647 ms - -[0m
+{ q: 'n' }
+/^n/
+[]
+[0mGET /getcity?q=n [32m200 [0m1.033 ms - 2[0m
+{ q: '' }
+/^/
+Alpine
+Altamont
+Alton
+Altonah
+American Fork
+Aneth
+Annabella
+Antimony
+Aurora
+Axtell
+Bear River City
+Beaver
+Beryl
+Bicknell
+Bingham Canyon
+Blanding
+Bluebell
+Bluff
+Bonanza
+Boulder
+Bountiful
+Brian Head
+Brigham City
+Bryce
+Bryce Canyon
+Cache Junction
+Cannonville
+Castle Dale
+Cedar City
+Cedar Valley
+Centerfield
+Centerville
+Central
+Chester
+Circleville
+Cisco
+Clarkston
+Clawson
+Clearfield
+Cleveland
+Clinton
+Coalville
+Collinston
+Corinne
+Cornish
+Croydon
+Dammeron Valley
+Delta
+Deweyville
+Draper
+Duchesne
+Duck Creek Village
+Dugway
+Dutch John
+East Carbon
+Echo
+Eden
+Elberta
+Elmo
+Elsinore
+Emery
+Enterprise
+Ephraim
+Escalante
+Eureka
+Fairview
+Farmington
+Fayette
+Ferron
+Fielding
+Fillmore
+Fort Duchesne
+Fountain Green
+Fruitland
+Garden City
+Garland
+Garrison
+Glendale
+Glenwood
+Goshen
+Grantsville
+Green River
+Greenville
+Greenwich
+Grouse Creek
+Gunlock
+Gunnison
+Gusher
+Hanksville
+Hanna
+Hatch
+Heber City
+Helper
+Henefer
+Henrieville
+Hiawatha
+Hildale
+Hill AFB
+Hinckley
+Holden
+Honeyville
+Hooper
+Howell
+Huntington
+Huntsville
+Hurricane
+Hyde Park
+Hyrum
+Ibapah
+Ivins
+Jensen
+Joseph
+Junction
+Kamas
+Kanab
+Kanarraville
+Kanosh
+Kaysville
+Kenilworth
+Kingston
+Koosharem
+La Sal
+La Verkin
+Lake Powell
+Laketown
+Lapoint
+Layton
+Leamington
+Leeds
+Lehi
+Levan
+Lewiston
+Lindon
+Loa
+Logan
+Lyman
+Lynndyl
+Magna
+Manila
+Manti
+Mantua
+Mapleton
+Marysvale
+Mayfield
+Meadow
+Mendon
+Mexican Hat
+Midvale
+Midway
+Milford
+Millville
+Minersville
+Moab
+Modena
+Mona
+Monroe
+Montezuma Creek
+Monticello
+Morgan
+Moroni
+Mount Carmel
+Mount Pleasant
+Mountain Home
+Myton
+Neola
+Nephi
+New Harmony
+Newcastle
+Newton
+North Salt Lake
+Oak City
+Oakley
+Oasis
+Ogden
+Orangeville
+Orderville
+Orem
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+Randlett
+Randolph
+Redmond
+Richfield
+Richmond
+Riverside
+Riverton
+Rockville
+Roosevelt
+Roy
+Rush Valley
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+Scipio
+Sevier
+Sigurd
+Smithfield
+Snowville
+South Jordan
+South Willard
+Spanish Fork
+Spring City
+Springdale
+Springville
+Sterling
+Stockton
+Summit
+Sunnyside
+Syracuse
+Tabiona
+Talmage
+Teasdale
+Thompson
+Tooele
+Toquerville
+Torrey
+Tremonton
+Trenton
+Tridell
+Tropic
+Vernal
+Vernon
+Veyo
+Virgin
+Wales
+Wallsburg
+Washington
+Wellington
+Wellsville
+Wendover
+West Jordan
+Whiterocks
+Willard
+Woodruff
+Woods Cross
+
+[ { city: 'Alpine' },
+  { city: 'Altamont' },
+  { city: 'Alton' },
+  { city: 'Altonah' },
+  { city: 'American Fork' },
+  { city: 'Aneth' },
+  { city: 'Annabella' },
+  { city: 'Antimony' },
+  { city: 'Aurora' },
+  { city: 'Axtell' },
+  { city: 'Bear River City' },
+  { city: 'Beaver' },
+  { city: 'Beryl' },
+  { city: 'Bicknell' },
+  { city: 'Bingham Canyon' },
+  { city: 'Blanding' },
+  { city: 'Bluebell' },
+  { city: 'Bluff' },
+  { city: 'Bonanza' },
+  { city: 'Boulder' },
+  { city: 'Bountiful' },
+  { city: 'Brian Head' },
+  { city: 'Brigham City' },
+  { city: 'Bryce' },
+  { city: 'Bryce Canyon' },
+  { city: 'Cache Junction' },
+  { city: 'Cannonville' },
+  { city: 'Castle Dale' },
+  { city: 'Cedar City' },
+  { city: 'Cedar Valley' },
+  { city: 'Centerfield' },
+  { city: 'Centerville' },
+  { city: 'Central' },
+  { city: 'Chester' },
+  { city: 'Circleville' },
+  { city: 'Cisco' },
+  { city: 'Clarkston' },
+  { city: 'Clawson' },
+  { city: 'Clearfield' },
+  { city: 'Cleveland' },
+  { city: 'Clinton' },
+  { city: 'Coalville' },
+  { city: 'Collinston' },
+  { city: 'Corinne' },
+  { city: 'Cornish' },
+  { city: 'Croydon' },
+  { city: 'Dammeron Valley' },
+  { city: 'Delta' },
+  { city: 'Deweyville' },
+  { city: 'Draper' },
+  { city: 'Duchesne' },
+  { city: 'Duck Creek Village' },
+  { city: 'Dugway' },
+  { city: 'Dutch John' },
+  { city: 'East Carbon' },
+  { city: 'Echo' },
+  { city: 'Eden' },
+  { city: 'Elberta' },
+  { city: 'Elmo' },
+  { city: 'Elsinore' },
+  { city: 'Emery' },
+  { city: 'Enterprise' },
+  { city: 'Ephraim' },
+  { city: 'Escalante' },
+  { city: 'Eureka' },
+  { city: 'Fairview' },
+  { city: 'Farmington' },
+  { city: 'Fayette' },
+  { city: 'Ferron' },
+  { city: 'Fielding' },
+  { city: 'Fillmore' },
+  { city: 'Fort Duchesne' },
+  { city: 'Fountain Green' },
+  { city: 'Fruitland' },
+  { city: 'Garden City' },
+  { city: 'Garland' },
+  { city: 'Garrison' },
+  { city: 'Glendale' },
+  { city: 'Glenwood' },
+  { city: 'Goshen' },
+  { city: 'Grantsville' },
+  { city: 'Green River' },
+  { city: 'Greenville' },
+  { city: 'Greenwich' },
+  { city: 'Grouse Creek' },
+  { city: 'Gunlock' },
+  { city: 'Gunnison' },
+  { city: 'Gusher' },
+  { city: 'Hanksville' },
+  { city: 'Hanna' },
+  { city: 'Hatch' },
+  { city: 'Heber City' },
+  { city: 'Helper' },
+  { city: 'Henefer' },
+  { city: 'Henrieville' },
+  { city: 'Hiawatha' },
+  { city: 'Hildale' },
+  { city: 'Hill AFB' },
+  { city: 'Hinckley' },
+  { city: 'Holden' },
+  { city: 'Honeyville' },
+  { city: 'Hooper' },
+  { city: 'Howell' },
+  { city: 'Huntington' },
+  { city: 'Huntsville' },
+  { city: 'Hurricane' },
+  { city: 'Hyde Park' },
+  { city: 'Hyrum' },
+  { city: 'Ibapah' },
+  { city: 'Ivins' },
+  { city: 'Jensen' },
+  { city: 'Joseph' },
+  { city: 'Junction' },
+  { city: 'Kamas' },
+  { city: 'Kanab' },
+  { city: 'Kanarraville' },
+  { city: 'Kanosh' },
+  { city: 'Kaysville' },
+  { city: 'Kenilworth' },
+  { city: 'Kingston' },
+  { city: 'Koosharem' },
+  { city: 'La Sal' },
+  { city: 'La Verkin' },
+  { city: 'Lake Powell' },
+  { city: 'Laketown' },
+  { city: 'Lapoint' },
+  { city: 'Layton' },
+  { city: 'Leamington' },
+  { city: 'Leeds' },
+  { city: 'Lehi' },
+  { city: 'Levan' },
+  { city: 'Lewiston' },
+  { city: 'Lindon' },
+  { city: 'Loa' },
+  { city: 'Logan' },
+  { city: 'Lyman' },
+  { city: 'Lynndyl' },
+  { city: 'Magna' },
+  { city: 'Manila' },
+  { city: 'Manti' },
+  { city: 'Mantua' },
+  { city: 'Mapleton' },
+  { city: 'Marysvale' },
+  { city: 'Mayfield' },
+  { city: 'Meadow' },
+  { city: 'Mendon' },
+  { city: 'Mexican Hat' },
+  { city: 'Midvale' },
+  { city: 'Midway' },
+  { city: 'Milford' },
+  { city: 'Millville' },
+  { city: 'Minersville' },
+  { city: 'Moab' },
+  { city: 'Modena' },
+  { city: 'Mona' },
+  { city: 'Monroe' },
+  { city: 'Montezuma Creek' },
+  { city: 'Monticello' },
+  { city: 'Morgan' },
+  { city: 'Moroni' },
+  { city: 'Mount Carmel' },
+  { city: 'Mount Pleasant' },
+  { city: 'Mountain Home' },
+  { city: 'Myton' },
+  { city: 'Neola' },
+  { city: 'Nephi' },
+  { city: 'New Harmony' },
+  { city: 'Newcastle' },
+  { city: 'Newton' },
+  { city: 'North Salt Lake' },
+  { city: 'Oak City' },
+  { city: 'Oakley' },
+  { city: 'Oasis' },
+  { city: 'Ogden' },
+  { city: 'Orangeville' },
+  { city: 'Orderville' },
+  { city: 'Orem' },
+  { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' },
+  { city: 'Randlett' },
+  { city: 'Randolph' },
+  { city: 'Redmond' },
+  { city: 'Richfield' },
+  { city: 'Richmond' },
+  { city: 'Riverside' },
+  { city: 'Riverton' },
+  { city: 'Rockville' },
+  { city: 'Roosevelt' },
+  { city: 'Roy' },
+  { city: 'Rush Valley' },
+  { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' },
+  { city: 'Scipio' },
+  { city: 'Sevier' },
+  { city: 'Sigurd' },
+  { city: 'Smithfield' },
+  { city: 'Snowville' },
+  { city: 'South Jordan' },
+  { city: 'South Willard' },
+  { city: 'Spanish Fork' },
+  { city: 'Spring City' },
+  { city: 'Springdale' },
+  { city: 'Springville' },
+  { city: 'Sterling' },
+  { city: 'Stockton' },
+  { city: 'Summit' },
+  { city: 'Sunnyside' },
+  { city: 'Syracuse' },
+  { city: 'Tabiona' },
+  { city: 'Talmage' },
+  { city: 'Teasdale' },
+  { city: 'Thompson' },
+  { city: 'Tooele' },
+  { city: 'Toquerville' },
+  { city: 'Torrey' },
+  { city: 'Tremonton' },
+  { city: 'Trenton' },
+  { city: 'Tridell' },
+  { city: 'Tropic' },
+  { city: 'Vernal' },
+  { city: 'Vernon' },
+  { city: 'Veyo' },
+  { city: 'Virgin' },
+  { city: 'Wales' },
+  { city: 'Wallsburg' },
+  { city: 'Washington' },
+  { city: 'Wellington' },
+  { city: 'Wellsville' },
+  { city: 'Wendover' },
+  { city: 'West Jordan' },
+  { city: 'Whiterocks' },
+  { city: 'Willard' },
+  { city: 'Woodruff' },
+  { city: 'Woods Cross' },
+  { city: '' } ]
+[0mGET /getcity?q= [32m200 [0m14.993 ms - 5080[0m
+{ q: '' }
+/^/
+Alpine
+Altamont
+Alton
+Altonah
+American Fork
+Aneth
+Annabella
+Antimony
+Aurora
+Axtell
+Bear River City
+Beaver
+Beryl
+Bicknell
+Bingham Canyon
+Blanding
+Bluebell
+Bluff
+Bonanza
+Boulder
+Bountiful
+Brian Head
+Brigham City
+Bryce
+Bryce Canyon
+Cache Junction
+Cannonville
+Castle Dale
+Cedar City
+Cedar Valley
+Centerfield
+Centerville
+Central
+Chester
+Circleville
+Cisco
+Clarkston
+Clawson
+Clearfield
+Cleveland
+Clinton
+Coalville
+Collinston
+Corinne
+Cornish
+Croydon
+Dammeron Valley
+Delta
+Deweyville
+Draper
+Duchesne
+Duck Creek Village
+Dugway
+Dutch John
+East Carbon
+Echo
+Eden
+Elberta
+Elmo
+Elsinore
+Emery
+Enterprise
+Ephraim
+Escalante
+Eureka
+Fairview
+Farmington
+Fayette
+Ferron
+Fielding
+Fillmore
+Fort Duchesne
+Fountain Green
+Fruitland
+Garden City
+Garland
+Garrison
+Glendale
+Glenwood
+Goshen
+Grantsville
+Green River
+Greenville
+Greenwich
+Grouse Creek
+Gunlock
+Gunnison
+Gusher
+Hanksville
+Hanna
+Hatch
+Heber City
+Helper
+Henefer
+Henrieville
+Hiawatha
+Hildale
+Hill AFB
+Hinckley
+Holden
+Honeyville
+Hooper
+Howell
+Huntington
+Huntsville
+Hurricane
+Hyde Park
+Hyrum
+Ibapah
+Ivins
+Jensen
+Joseph
+Junction
+Kamas
+Kanab
+Kanarraville
+Kanosh
+Kaysville
+Kenilworth
+Kingston
+Koosharem
+La Sal
+La Verkin
+Lake Powell
+Laketown
+Lapoint
+Layton
+Leamington
+Leeds
+Lehi
+Levan
+Lewiston
+Lindon
+Loa
+Logan
+Lyman
+Lynndyl
+Magna
+Manila
+Manti
+Mantua
+Mapleton
+Marysvale
+Mayfield
+Meadow
+Mendon
+Mexican Hat
+Midvale
+Midway
+Milford
+Millville
+Minersville
+Moab
+Modena
+Mona
+Monroe
+Montezuma Creek
+Monticello
+Morgan
+Moroni
+Mount Carmel
+Mount Pleasant
+Mountain Home
+Myton
+Neola
+Nephi
+New Harmony
+Newcastle
+Newton
+North Salt Lake
+Oak City
+Oakley
+Oasis
+Ogden
+Orangeville
+Orderville
+Orem
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+Randlett
+Randolph
+Redmond
+Richfield
+Richmond
+Riverside
+Riverton
+Rockville
+Roosevelt
+Roy
+Rush Valley
+Saint George
+Salem
+Salina
+Salt Lake City
+Sandy
+Santa Clara
+Santaquin
+Scipio
+Sevier
+Sigurd
+Smithfield
+Snowville
+South Jordan
+South Willard
+Spanish Fork
+Spring City
+Springdale
+Springville
+Sterling
+Stockton
+Summit
+Sunnyside
+Syracuse
+Tabiona
+Talmage
+Teasdale
+Thompson
+Tooele
+Toquerville
+Torrey
+Tremonton
+Trenton
+Tridell
+Tropic
+Vernal
+Vernon
+Veyo
+Virgin
+Wales
+Wallsburg
+Washington
+Wellington
+Wellsville
+Wendover
+West Jordan
+Whiterocks
+Willard
+Woodruff
+Woods Cross
+
+[ { city: 'Alpine' },
+  { city: 'Altamont' },
+  { city: 'Alton' },
+  { city: 'Altonah' },
+  { city: 'American Fork' },
+  { city: 'Aneth' },
+  { city: 'Annabella' },
+  { city: 'Antimony' },
+  { city: 'Aurora' },
+  { city: 'Axtell' },
+  { city: 'Bear River City' },
+  { city: 'Beaver' },
+  { city: 'Beryl' },
+  { city: 'Bicknell' },
+  { city: 'Bingham Canyon' },
+  { city: 'Blanding' },
+  { city: 'Bluebell' },
+  { city: 'Bluff' },
+  { city: 'Bonanza' },
+  { city: 'Boulder' },
+  { city: 'Bountiful' },
+  { city: 'Brian Head' },
+  { city: 'Brigham City' },
+  { city: 'Bryce' },
+  { city: 'Bryce Canyon' },
+  { city: 'Cache Junction' },
+  { city: 'Cannonville' },
+  { city: 'Castle Dale' },
+  { city: 'Cedar City' },
+  { city: 'Cedar Valley' },
+  { city: 'Centerfield' },
+  { city: 'Centerville' },
+  { city: 'Central' },
+  { city: 'Chester' },
+  { city: 'Circleville' },
+  { city: 'Cisco' },
+  { city: 'Clarkston' },
+  { city: 'Clawson' },
+  { city: 'Clearfield' },
+  { city: 'Cleveland' },
+  { city: 'Clinton' },
+  { city: 'Coalville' },
+  { city: 'Collinston' },
+  { city: 'Corinne' },
+  { city: 'Cornish' },
+  { city: 'Croydon' },
+  { city: 'Dammeron Valley' },
+  { city: 'Delta' },
+  { city: 'Deweyville' },
+  { city: 'Draper' },
+  { city: 'Duchesne' },
+  { city: 'Duck Creek Village' },
+  { city: 'Dugway' },
+  { city: 'Dutch John' },
+  { city: 'East Carbon' },
+  { city: 'Echo' },
+  { city: 'Eden' },
+  { city: 'Elberta' },
+  { city: 'Elmo' },
+  { city: 'Elsinore' },
+  { city: 'Emery' },
+  { city: 'Enterprise' },
+  { city: 'Ephraim' },
+  { city: 'Escalante' },
+  { city: 'Eureka' },
+  { city: 'Fairview' },
+  { city: 'Farmington' },
+  { city: 'Fayette' },
+  { city: 'Ferron' },
+  { city: 'Fielding' },
+  { city: 'Fillmore' },
+  { city: 'Fort Duchesne' },
+  { city: 'Fountain Green' },
+  { city: 'Fruitland' },
+  { city: 'Garden City' },
+  { city: 'Garland' },
+  { city: 'Garrison' },
+  { city: 'Glendale' },
+  { city: 'Glenwood' },
+  { city: 'Goshen' },
+  { city: 'Grantsville' },
+  { city: 'Green River' },
+  { city: 'Greenville' },
+  { city: 'Greenwich' },
+  { city: 'Grouse Creek' },
+  { city: 'Gunlock' },
+  { city: 'Gunnison' },
+  { city: 'Gusher' },
+  { city: 'Hanksville' },
+  { city: 'Hanna' },
+  { city: 'Hatch' },
+  { city: 'Heber City' },
+  { city: 'Helper' },
+  { city: 'Henefer' },
+  { city: 'Henrieville' },
+  { city: 'Hiawatha' },
+  { city: 'Hildale' },
+  { city: 'Hill AFB' },
+  { city: 'Hinckley' },
+  { city: 'Holden' },
+  { city: 'Honeyville' },
+  { city: 'Hooper' },
+  { city: 'Howell' },
+  { city: 'Huntington' },
+  { city: 'Huntsville' },
+  { city: 'Hurricane' },
+  { city: 'Hyde Park' },
+  { city: 'Hyrum' },
+  { city: 'Ibapah' },
+  { city: 'Ivins' },
+  { city: 'Jensen' },
+  { city: 'Joseph' },
+  { city: 'Junction' },
+  { city: 'Kamas' },
+  { city: 'Kanab' },
+  { city: 'Kanarraville' },
+  { city: 'Kanosh' },
+  { city: 'Kaysville' },
+  { city: 'Kenilworth' },
+  { city: 'Kingston' },
+  { city: 'Koosharem' },
+  { city: 'La Sal' },
+  { city: 'La Verkin' },
+  { city: 'Lake Powell' },
+  { city: 'Laketown' },
+  { city: 'Lapoint' },
+  { city: 'Layton' },
+  { city: 'Leamington' },
+  { city: 'Leeds' },
+  { city: 'Lehi' },
+  { city: 'Levan' },
+  { city: 'Lewiston' },
+  { city: 'Lindon' },
+  { city: 'Loa' },
+  { city: 'Logan' },
+  { city: 'Lyman' },
+  { city: 'Lynndyl' },
+  { city: 'Magna' },
+  { city: 'Manila' },
+  { city: 'Manti' },
+  { city: 'Mantua' },
+  { city: 'Mapleton' },
+  { city: 'Marysvale' },
+  { city: 'Mayfield' },
+  { city: 'Meadow' },
+  { city: 'Mendon' },
+  { city: 'Mexican Hat' },
+  { city: 'Midvale' },
+  { city: 'Midway' },
+  { city: 'Milford' },
+  { city: 'Millville' },
+  { city: 'Minersville' },
+  { city: 'Moab' },
+  { city: 'Modena' },
+  { city: 'Mona' },
+  { city: 'Monroe' },
+  { city: 'Montezuma Creek' },
+  { city: 'Monticello' },
+  { city: 'Morgan' },
+  { city: 'Moroni' },
+  { city: 'Mount Carmel' },
+  { city: 'Mount Pleasant' },
+  { city: 'Mountain Home' },
+  { city: 'Myton' },
+  { city: 'Neola' },
+  { city: 'Nephi' },
+  { city: 'New Harmony' },
+  { city: 'Newcastle' },
+  { city: 'Newton' },
+  { city: 'North Salt Lake' },
+  { city: 'Oak City' },
+  { city: 'Oakley' },
+  { city: 'Oasis' },
+  { city: 'Ogden' },
+  { city: 'Orangeville' },
+  { city: 'Orderville' },
+  { city: 'Orem' },
+  { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' },
+  { city: 'Randlett' },
+  { city: 'Randolph' },
+  { city: 'Redmond' },
+  { city: 'Richfield' },
+  { city: 'Richmond' },
+  { city: 'Riverside' },
+  { city: 'Riverton' },
+  { city: 'Rockville' },
+  { city: 'Roosevelt' },
+  { city: 'Roy' },
+  { city: 'Rush Valley' },
+  { city: 'Saint George' },
+  { city: 'Salem' },
+  { city: 'Salina' },
+  { city: 'Salt Lake City' },
+  { city: 'Sandy' },
+  { city: 'Santa Clara' },
+  { city: 'Santaquin' },
+  { city: 'Scipio' },
+  { city: 'Sevier' },
+  { city: 'Sigurd' },
+  { city: 'Smithfield' },
+  { city: 'Snowville' },
+  { city: 'South Jordan' },
+  { city: 'South Willard' },
+  { city: 'Spanish Fork' },
+  { city: 'Spring City' },
+  { city: 'Springdale' },
+  { city: 'Springville' },
+  { city: 'Sterling' },
+  { city: 'Stockton' },
+  { city: 'Summit' },
+  { city: 'Sunnyside' },
+  { city: 'Syracuse' },
+  { city: 'Tabiona' },
+  { city: 'Talmage' },
+  { city: 'Teasdale' },
+  { city: 'Thompson' },
+  { city: 'Tooele' },
+  { city: 'Toquerville' },
+  { city: 'Torrey' },
+  { city: 'Tremonton' },
+  { city: 'Trenton' },
+  { city: 'Tridell' },
+  { city: 'Tropic' },
+  { city: 'Vernal' },
+  { city: 'Vernon' },
+  { city: 'Veyo' },
+  { city: 'Virgin' },
+  { city: 'Wales' },
+  { city: 'Wallsburg' },
+  { city: 'Washington' },
+  { city: 'Wellington' },
+  { city: 'Wellsville' },
+  { city: 'Wendover' },
+  { city: 'West Jordan' },
+  { city: 'Whiterocks' },
+  { city: 'Willard' },
+  { city: 'Woodruff' },
+  { city: 'Woods Cross' },
+  { city: '' } ]
+[0mGET /getcity?q= [36m304 [0m14.990 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.816 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m2.837 ms - -[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m1.125 ms - -[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m0.880 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m1.014 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m0.736 ms - -[0m
+[0mGET / [36m304 [0m0.558 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m2.765 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.260 ms - -[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m0.957 ms - -[0m
+{ q: 'Pro' }
+/^Pro/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pro [36m304 [0m0.997 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m1.060 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m0.915 ms - -[0m
+[0mGET / [36m304 [0m0.497 ms - -[0m
+[0mGET / [36m304 [0m0.681 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.835 ms - -[0m
+{ q: 'P' }
+/^P/
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[0mGET /getcity?q=P [36m304 [0m1.842 ms - -[0m
+{ q: 'Pr' }
+/^Pr/
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Pr [36m304 [0m0.850 ms - -[0m
+{ q: 'Prov' }
+/^Prov/
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[0mGET /getcity?q=Prov [36m304 [0m1.300 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m0.870 ms - -[0m
+{ q: 'Provo' }
+/^Provo/
+Provo
+[ { city: 'Provo' } ]
+[0mGET /getcity?q=Provo [36m304 [0m0.953 ms - -[0m
+[0mHEAD / [32m200 [0m1.957 ms - 3728[0m
+[0mGET / [32m200 [0m1.916 ms - 3728[0m
+[0mGET / [36m304 [0m0.583 ms - -[0m
+[0mGET / [32m200 [0m0.770 ms - 3727[0m
+[0mGET / [36m304 [0m5.008 ms - -[0m
+[0mGET /wp-login.php [33m404 [0m1.201 ms - 946[0m
+[0mGET / [32m200 [0m0.751 ms - 3727[0m
+[0mGET /w00tw00t.at.blackhats.romanian.anti-sec:) [33m404 [0m1.097 ms - 946[0m
+[0mGET /phpMyAdmin/scripts/setup.php [33m404 [0m1.068 ms - 946[0m
+[0mGET /phpmyadmin/scripts/setup.php [33m404 [0m1.079 ms - 946[0m
+[0mGET /pma/scripts/setup.php [33m404 [0m1.486 ms - 946[0m
+[0mGET /myadmin/scripts/setup.php [33m404 [0m1.439 ms - 946[0m
+[0mGET /MyAdmin/scripts/setup.php [33m404 [0m1.031 ms - 946[0m
+[0mGET / [32m200 [0m0.877 ms - 3727[0m
+[0mGET /favicon.ico [33m404 [0m1.703 ms - 946[0m
+[0mGET / [32m200 [0m0.918 ms - 3727[0m
+[0mHEAD / [32m200 [0m0.649 ms - 3727[0m
+[0mGET /getSymbol?q=A [33m404 [0m1.145 ms - 946[0m
+[0mGET /getSymbol?q=AAP [33m404 [0m3.085 ms - 946[0m
+[0mGET /getSymbol?q=AAPL [33m404 [0m2.319 ms - 946[0m
+[0mGET /getSymbol?q=AAPL [33m404 [0m1.935 ms - 946[0m
+[0mGET /getSymbol?q=AAPL [33m404 [0m1.130 ms - 946[0m
+[0mGET / [36m304 [0m6.096 ms - -[0m
+[0mGET /getSymbol?q= [33m404 [0m1.527 ms - 946[0m
+[0mGET /getSymbol?q=A [33m404 [0m1.091 ms - 946[0m
+[0mGET /getSymbol?q=AA [33m404 [0m1.224 ms - 946[0m
+[0mGET /getSymbol?q=AAP [33m404 [0m1.505 ms - 946[0m
+[0mGET /getSymbol?q=AAPL [33m404 [0m1.152 ms - 946[0m
+[0mGET /getSymbol?q=AAPL [33m404 [0m1.213 ms - 946[0m
+[0mGET /robots.txt [33m404 [0m1.028 ms - 946[0m
+[0mGET /favicon.ico [33m404 [0m1.109 ms - 946[0m
+[0mGET / [32m200 [0m0.921 ms - 3727[0m
+[0mGET /robots.txt [33m404 [0m1.132 ms - 946[0m
+[0mGET /sitemap.xml [33m404 [0m1.517 ms - 946[0m
+[0mGET / [36m304 [0m0.604 ms - -[0m
+[0mGET / [32m200 [0m0.770 ms - 3727[0m
+[0mGET / [32m200 [0m0.784 ms - 3727[0m
+[0mGET /favicon.ico [33m404 [0m0.874 ms - 946[0m

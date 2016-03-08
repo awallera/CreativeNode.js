@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vote for a Candidate</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<style> .weather{ list-style-type: none;}
+#SEMI {
+background:rgba(255,255,255,0.5);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 350px;
+    margin-left: 350px;
+}
+
+
+ul{ list-style-type: none; }
+
+
+html {
+  background: url(http://askyourmind.com/wp-content/uploads/2016/01/How-to-Ski-A-Beginners-Guide1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+    background-color: transparent;
+}
+</style>
+
+                <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+
+<body>
+<div id="SEMI">
+<center>
+<h1>Let's Vote!</h1>
+<form method="POST">
+Select a Candidate: <input type="text" id="cityfield" value="">
+<br>
+Suggestion: <span id="txtHint">Empty</span>
+<input id="button" type="submit" value="Submit">
+</form>
+<p>City</p>
+<textarea id="dispcity">No City</textarea>
+<p>Current Weather</p>
+
+<div id="weather">Enter a City to View Weather</div>
+</center>
+</div>
+
+<script>
+$(document).ready(function(){
+//Display the hints 
+$( "#cityfield").keyup(function() {
+        if ($("#cityfield")=="Trump")
+{
+
+
+        $.getJSON("http://ec2-54-213-191-206.us-west-2.compute.amazonaws.com/getcity?q="+$("#cityfield").val()
+,function(data){
+var everything = "";
+        $.each(data,function(i,item){
+        everything += data[i].city;
+        });
+        $("#txtHint").html(everything);
+
+}
+}
+if ($("#cityfield")=="Clinton")
+{
+
+        $.getJSON("http://ec2-54-213-191-206.us-west-2.
+compute.amazonaws.com/getcity?q="+$("#cityfield").val()
+,function(data){
+var everything = "";
+        $.each(data,function(i,item){
+        everything += data[i].city;
+        });
+        $("#txtHint").html(everything);
+
+}
+}
+if ($("#cityfield")=="Cruz")
+{
+
+        $.getJSON("http://ec2-54-213-191-206.us-west-2.
+compute.amazonaws.com/getcity?q="+$("#cityfield").val()
+,function(data){
+var everything = "";
+        $.each(data,function(i,item){
+        everything += data[i].city;
+        });
+        $("#txtHint").html(everything);
+
+}
+}
+if ($("#cityfield")=="Sanders")
+{
+        $.getJSON("http://ec2-54-213-191-206.us-west-2.
+compute.amazonaws.com/getcity?q="+$("#cityfield").val()
+,function(data){
+var everything = "";
+        $.each(data,function(i,item){
+        everything += data[i].city;
+        });
+        $("#txtHint").html(everything);
+}
+}
+});
+</script>
+<script>
+//Find and display the weather
+$("#button").click(function(e){
+  var value = $("#cityfield").val();
+  console.log(value);
+  e.preventDefault();
+        var myurl= "https://api.wunderground.com/api/3ebbfdb50683e5b8/geolookup/conditions/q/UT/";
+  myurl += value;
+  myurl += ".json";
+  console.log(myurl);//output URL to the console
+  $.ajax({
+    url : myurl,
+    dataType : "jsonp",
+    success : function(parsed_json) {
+      var location = parsed_json['location']['city'];
+      var temp_string = parsed_json['current_observation']['temperature_string'];
+      var current_weather = parsed_json['current_observation']['weather'];
+      everything = "<ul class=\"unstyled\">";
+      everything += "<li>Location: "+location;
+      everything += "<li>Temperature: "+temp_string;
+      everything += "<li>Weather: "+current_weather;
+      everything += "</ul>";
+      $("#weather").html(everything);//now put the parsed string into the webpage
+    }
+  });
+$("#dispcity").text(value);
+console.log(value);
+});
+//Look up Weather
+</script>
+</body>
+</html>

@@ -1,0 +1,116 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css" rel="stylesheet" type="text/css">
+  </head><body>
+    <div class="cover">
+      <div class="cover-image" style="background-image : url('https://unsplash.imgix.net/photo-1423347834838-5162bb452ca7?w=1024&amp;q=50&amp;fm=jpg&amp;s=c255e589621f06513c1d123c7323fe9c')"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h1 class="text-inverse">Stock Quotes</h1>
+            <p class="text-inverse">Know when to buy and when to sell!</p>
+            <br>
+            <br>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="text-center">Enter Stock Symbol</h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-offset-3 col-md-6">
+            <form role="form">
+              <div class="form-group">
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Enter your Stock Symbol: (i.e. AAPL)" id="symbolField">
+                  <span class="input-group-btn">
+                    <a class="btn btn-success" type="submit" id="button">Go</a>
+                  </span>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <ul id="list">
+              <li>AAPL</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h1 class="text-primary" id="companyName">Company Name</h1>
+            <p id="titles">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+              ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
+              dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
+              nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+              Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In
+              enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum
+              felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus
+              elementum semper nisi.</p>
+          </div>
+          <div class="col-md-6">
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      $(document).ready(function(){
+        $("#button").click(function(e){
+  var value = $("#symbolField").val();
+
+
+var URL = "https://www.quandl.com/api/v3/datasets/WIKI/"+  $("#symbolField").val()+".json";
+
+$.ajax({
+
+url:URL,
+dataType : "json",
+success : function(parsed_json) {
+
+	var closingPrice = parsed_json["dataset"]["data"]["0"]["4"];
+	var Name = parsed_json["dataset"]["name"];
+console.log(Name);
+console.log(closingPrice);
+console.log(parsed_json);
+
+document.getElementById("companyName").innerHTML = closingPrice;
+document.getElementById("titles").innerHTML = Name
+$("ul").empty();
+}
+});
+});
+  
+       $("#symbolField").keyup(function() {
+event.preventDefault();           
+$.getJSON("http://ec2-54-213-191-206.us-west-2.compute.amazonaws.com:3002/getSymbol?q="+$("#symbolField").val()
+,function(data){
+           console.log(data);
+		var everything = "";
+        $.each(data,function(i,item){
+          everything += "<li>";
+        everything += data[i].symbol;
+          everything += "</li>";
+        });
+        $("#list").html(everything);
+       });
+       });
+});
+    </script>
+  
+
+</body></html>
